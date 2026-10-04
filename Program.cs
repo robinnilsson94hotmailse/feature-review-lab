@@ -11,5 +11,5 @@ if (string.IsNullOrWhiteSpace(namn))
 else
 {
     //Om namnet är giltigt
-    Console.WriteLine($"Välkommen {namn}.");
+    Console.WriteLine($"Välkommen {namn}! CI-övning");
 }
